@@ -138,5 +138,21 @@
   "peerDependencies": {
     "react": ">=16.0.0",
     "react-dom": ">=16.0.0"
-  }
+  },
+  "files": [
+    "esm",
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "license": "MIT",
+  "author": "wangxiaogang94",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxiaogang94/watermelon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangxiaogang94/watermelon/issues"
+  },
+  "homepage": "https://github.com/wangxiaogang94/watermelon#readme"
 }
