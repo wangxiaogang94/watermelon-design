@@ -1,11 +1,12 @@
 import React from 'react';
-import { Button } from './components';
+import { Button, ImageList, WaterMark } from './components';
 
 const App = () => (
-  <div className="App">
-    hello<Button text={'hello'}></Button>
-  </div>
+    <div className="App">
+        hello<Button text={'hello'} />
+        <ImageList />
+        <WaterMark text={'王晓刚'} isWatermark />
+    </div>
 );
-
 
 export default App;

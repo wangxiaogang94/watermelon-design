@@ -1,4 +1,4 @@
-export const fileToBase64 = (file, func) => {
+const fileToBase64 = (file, func) => {
     const reader = new FileReader();
     reader.addEventListener('load', () => {
         const { result } = reader;
@@ -6,3 +6,5 @@ export const fileToBase64 = (file, func) => {
     });
     reader.readAsDataURL(file);
 };
+
+export default fileToBase64;
