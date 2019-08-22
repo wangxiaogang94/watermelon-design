@@ -1,6 +1,6 @@
 {
   "name": "watermelon-design",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "person design",
   "dependencies": {
     "@svgr/webpack": "4.1.0",
