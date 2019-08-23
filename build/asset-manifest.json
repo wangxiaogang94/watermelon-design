@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.28b19514.chunk.css",
-    "main.js": "/static/js/main.1db5a6a8.chunk.js",
-    "main.js.map": "/static/js/main.1db5a6a8.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.0fc2867d.chunk.js": "/static/js/2.0fc2867d.chunk.js",
-    "static/js/2.0fc2867d.chunk.js.map": "/static/js/2.0fc2867d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b64e9ea30924b14c95da655d4fc2f462.js": "/precache-manifest.b64e9ea30924b14c95da655d4fc2f462.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.28b19514.chunk.css.map": "/static/css/main.28b19514.chunk.css.map"
+    "main.css": "/watermelon-design/build/static/css/main.28b19514.chunk.css",
+    "main.js": "/watermelon-design/build/static/js/main.1db5a6a8.chunk.js",
+    "main.js.map": "/watermelon-design/build/static/js/main.1db5a6a8.chunk.js.map",
+    "runtime~main.js": "/watermelon-design/build/static/js/runtime~main.145ebccf.js",
+    "runtime~main.js.map": "/watermelon-design/build/static/js/runtime~main.145ebccf.js.map",
+    "static/js/2.0fc2867d.chunk.js": "/watermelon-design/build/static/js/2.0fc2867d.chunk.js",
+    "static/js/2.0fc2867d.chunk.js.map": "/watermelon-design/build/static/js/2.0fc2867d.chunk.js.map",
+    "index.html": "/watermelon-design/build/index.html",
+    "precache-manifest.c38814e6a56bda689cb731aded690a83.js": "/watermelon-design/build/precache-manifest.c38814e6a56bda689cb731aded690a83.js",
+    "service-worker.js": "/watermelon-design/build/service-worker.js",
+    "static/css/main.28b19514.chunk.css.map": "/watermelon-design/build/static/css/main.28b19514.chunk.css.map"
   }
 }
