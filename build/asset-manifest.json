@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wangxiaogang94/watermelon/static/css/main.28b19514.chunk.css",
-    "main.js": "/wangxiaogang94/watermelon/static/js/main.ce5a48ba.chunk.js",
-    "main.js.map": "/wangxiaogang94/watermelon/static/js/main.ce5a48ba.chunk.js.map",
-    "runtime~main.js": "/wangxiaogang94/watermelon/static/js/runtime~main.40308299.js",
-    "runtime~main.js.map": "/wangxiaogang94/watermelon/static/js/runtime~main.40308299.js.map",
-    "static/js/2.0fc2867d.chunk.js": "/wangxiaogang94/watermelon/static/js/2.0fc2867d.chunk.js",
-    "static/js/2.0fc2867d.chunk.js.map": "/wangxiaogang94/watermelon/static/js/2.0fc2867d.chunk.js.map",
-    "index.html": "/wangxiaogang94/watermelon/index.html",
-    "precache-manifest.faeac5ea41df5a047320754b0f3a6d33.js": "/wangxiaogang94/watermelon/precache-manifest.faeac5ea41df5a047320754b0f3a6d33.js",
-    "service-worker.js": "/wangxiaogang94/watermelon/service-worker.js",
-    "static/css/main.28b19514.chunk.css.map": "/wangxiaogang94/watermelon/static/css/main.28b19514.chunk.css.map"
+    "main.css": "/static/css/main.28b19514.chunk.css",
+    "main.js": "/static/js/main.1db5a6a8.chunk.js",
+    "main.js.map": "/static/js/main.1db5a6a8.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.0fc2867d.chunk.js": "/static/js/2.0fc2867d.chunk.js",
+    "static/js/2.0fc2867d.chunk.js.map": "/static/js/2.0fc2867d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b64e9ea30924b14c95da655d4fc2f462.js": "/precache-manifest.b64e9ea30924b14c95da655d4fc2f462.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.28b19514.chunk.css.map": "/static/css/main.28b19514.chunk.css.map"
   }
 }
