@@ -1,4 +1,6 @@
 # 个人使用的组件库
+
+[详细文档](https://wangxiaogang94.github.io/watermelon-design/build/index.html)。
 ================================================
 ## 上传的图片文件转base64
 ```

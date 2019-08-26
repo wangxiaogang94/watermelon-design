@@ -1,6 +1,6 @@
 {
   "name": "watermelon-design",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "person design",
   "dependencies": {
     "@svgr/webpack": "4.1.0",
@@ -26,6 +26,7 @@
     "eslint-plugin-react-hooks": "^1.5.0",
     "file-loader": "3.0.1",
     "fs-extra": "7.0.1",
+    "highlight.js": "^9.15.10",
     "html-webpack-plugin": "4.0.0-beta.5",
     "identity-obj-proxy": "3.0.0",
     "is-wsl": "^1.1.0",
@@ -33,6 +34,7 @@
     "jest-environment-jsdom-fourteen": "0.1.0",
     "jest-resolve": "24.7.1",
     "jest-watch-typeahead": "0.3.0",
+    "marked": "^0.7.0",
     "mini-css-extract-plugin": "0.5.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "pnp-webpack-plugin": "1.2.1",
@@ -46,6 +48,7 @@
     "react-dev-utils": "^9.0.1",
     "react-dom": "^16.8.6",
     "react-grid-gallery": "^0.5.5",
+    "react-router-dom": "^5.0.1",
     "resolve": "1.10.0",
     "sass-loader": "7.1.0",
     "semver": "6.0.0",
@@ -155,5 +158,14 @@
   "bugs": {
     "url": "https://github.com/wangxiaogang94/watermelon/issues"
   },
-  "homepage": "https://wangxiaogang94.github.io/watermelon-design/build/"
+  "homepage": "https://wangxiaogang94.github.io/watermelon-design/build/",
+  "keywords": [
+    "watermelon",
+    "watermark",
+    "base64",
+    "react-component",
+    "component",
+    "components",
+    "ui",
+  ]
 }

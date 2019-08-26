@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/watermelon-design/build/static/css/main.28b19514.chunk.css",
-    "main.js": "/watermelon-design/build/static/js/main.1db5a6a8.chunk.js",
-    "main.js.map": "/watermelon-design/build/static/js/main.1db5a6a8.chunk.js.map",
+    "main.css": "/watermelon-design/build/static/css/main.d89d84ba.chunk.css",
+    "main.js": "/watermelon-design/build/static/js/main.57937d37.chunk.js",
+    "main.js.map": "/watermelon-design/build/static/js/main.57937d37.chunk.js.map",
     "runtime~main.js": "/watermelon-design/build/static/js/runtime~main.145ebccf.js",
     "runtime~main.js.map": "/watermelon-design/build/static/js/runtime~main.145ebccf.js.map",
-    "static/js/2.0fc2867d.chunk.js": "/watermelon-design/build/static/js/2.0fc2867d.chunk.js",
-    "static/js/2.0fc2867d.chunk.js.map": "/watermelon-design/build/static/js/2.0fc2867d.chunk.js.map",
+    "static/css/2.77d12ced.chunk.css": "/watermelon-design/build/static/css/2.77d12ced.chunk.css",
+    "static/js/2.4ad46a13.chunk.js": "/watermelon-design/build/static/js/2.4ad46a13.chunk.js",
+    "static/js/2.4ad46a13.chunk.js.map": "/watermelon-design/build/static/js/2.4ad46a13.chunk.js.map",
     "index.html": "/watermelon-design/build/index.html",
-    "precache-manifest.c38814e6a56bda689cb731aded690a83.js": "/watermelon-design/build/precache-manifest.c38814e6a56bda689cb731aded690a83.js",
+    "precache-manifest.2486e37d98ac6c8d2825c500f4b84e66.js": "/watermelon-design/build/precache-manifest.2486e37d98ac6c8d2825c500f4b84e66.js",
     "service-worker.js": "/watermelon-design/build/service-worker.js",
-    "static/css/main.28b19514.chunk.css.map": "/watermelon-design/build/static/css/main.28b19514.chunk.css.map"
+    "static/css/2.77d12ced.chunk.css.map": "/watermelon-design/build/static/css/2.77d12ced.chunk.css.map",
+    "static/css/main.d89d84ba.chunk.css.map": "/watermelon-design/build/static/css/main.d89d84ba.chunk.css.map",
+    "static/media/log.md": "/watermelon-design/build/static/media/log.c05fc3ff.md"
   }
 }
