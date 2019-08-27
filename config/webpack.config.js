@@ -546,7 +546,7 @@ module.exports = function(webpackEnv) {
       // to their corresponding output file so that tools can pick it up without
       // having to parse `index.html`.
       new ManifestPlugin({
-        fileName: 'asset-manifest.json',
+        fileName: 'manifest.json',
         publicPath: publicPath,
         generate: (seed, files) => {
           const manifestFiles = files.reduce(function(manifest, file) {
