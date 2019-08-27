@@ -27,6 +27,12 @@ Object.defineProperty(exports, "WaterMark", {
     return _WaterMark.default;
   }
 });
+Object.defineProperty(exports, "ColorPicker", {
+  enumerable: true,
+  get: function get() {
+    return _ColorPicker.default;
+  }
+});
 
 var _button = _interopRequireDefault(require("./button"));
 
@@ -35,5 +41,7 @@ var _fileToBase = _interopRequireDefault(require("./fileToBase64"));
 var _imageList = _interopRequireDefault(require("./imageList"));
 
 var _WaterMark = _interopRequireDefault(require("./WaterMark"));
+
+var _ColorPicker = _interopRequireDefault(require("./ColorPicker"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
