@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b23d769844808616d204537cf694e771",
+    "revision": "a904b7be587e16d0ade86eef1b608c66",
     "url": "/watermelon-design/build/index.html"
   },
   {
-    "revision": "283685fe4a2136393c58",
-    "url": "/watermelon-design/build/static/css/2.064c74a4.chunk.css"
+    "revision": "9d00bea14bc7aca9dc31",
+    "url": "/watermelon-design/build/static/css/2.a7f744b7.chunk.css"
   },
   {
-    "revision": "9d24b61299a1b10129f7",
+    "revision": "037936fbbc0c3cf7ddc4",
     "url": "/watermelon-design/build/static/css/main.d89d84ba.chunk.css"
   },
   {
-    "revision": "283685fe4a2136393c58",
-    "url": "/watermelon-design/build/static/js/2.c7f7c7ea.chunk.js"
+    "revision": "9d00bea14bc7aca9dc31",
+    "url": "/watermelon-design/build/static/js/2.5a78b19c.chunk.js"
   },
   {
-    "revision": "9d24b61299a1b10129f7",
-    "url": "/watermelon-design/build/static/js/main.bc323520.chunk.js"
+    "revision": "037936fbbc0c3cf7ddc4",
+    "url": "/watermelon-design/build/static/js/main.886384bf.chunk.js"
   },
   {
     "revision": "27366312f59fce09be4f",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "761ff7065384dee5445708c504216a25",
     "url": "/watermelon-design/build/static/media/log.761ff706.md"
+  },
+  {
+    "revision": "bacf181a8181d01f8cf6379a31a9d583",
+    "url": "/watermelon-design/build/static/media/log.bacf181a.md"
   },
   {
     "revision": "c05fc3ff6a5220d3bc3c5ffaaad80f01",

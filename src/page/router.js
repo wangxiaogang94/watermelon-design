@@ -2,6 +2,7 @@ import React from 'react';
 import Watermark from './watermark';
 import FileToBase64 from './fileToBase64';
 import Install from './install';
+import ColorPicker from './ColorPicker';
 
 const menu = [
     {
@@ -17,6 +18,11 @@ const menu = [
                 key: 'watermark',
                 name: '水印',
                 component: <Watermark />,
+            },
+            {
+                key: 'colorpicker',
+                name: '颜色选择器',
+                component: <ColorPicker />,
             },
         ],
     },

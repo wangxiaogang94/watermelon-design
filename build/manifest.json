@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/watermelon-design/build/static/css/main.d89d84ba.chunk.css",
-    "main.js": "/watermelon-design/build/static/js/main.bc323520.chunk.js",
-    "main.js.map": "/watermelon-design/build/static/js/main.bc323520.chunk.js.map",
+    "main.js": "/watermelon-design/build/static/js/main.886384bf.chunk.js",
+    "main.js.map": "/watermelon-design/build/static/js/main.886384bf.chunk.js.map",
     "runtime~main.js": "/watermelon-design/build/static/js/runtime~main.145ebccf.js",
     "runtime~main.js.map": "/watermelon-design/build/static/js/runtime~main.145ebccf.js.map",
-    "static/css/2.064c74a4.chunk.css": "/watermelon-design/build/static/css/2.064c74a4.chunk.css",
-    "static/js/2.c7f7c7ea.chunk.js": "/watermelon-design/build/static/js/2.c7f7c7ea.chunk.js",
-    "static/js/2.c7f7c7ea.chunk.js.map": "/watermelon-design/build/static/js/2.c7f7c7ea.chunk.js.map",
+    "static/css/2.a7f744b7.chunk.css": "/watermelon-design/build/static/css/2.a7f744b7.chunk.css",
+    "static/js/2.5a78b19c.chunk.js": "/watermelon-design/build/static/js/2.5a78b19c.chunk.js",
+    "static/js/2.5a78b19c.chunk.js.map": "/watermelon-design/build/static/js/2.5a78b19c.chunk.js.map",
     "index.html": "/watermelon-design/build/index.html",
-    "precache-manifest.31ace9f58ea81c62eb4158f0169915ce.js": "/watermelon-design/build/precache-manifest.31ace9f58ea81c62eb4158f0169915ce.js",
+    "precache-manifest.61ae1eacf0629430bfa9f2b040f52067.js": "/watermelon-design/build/precache-manifest.61ae1eacf0629430bfa9f2b040f52067.js",
     "service-worker.js": "/watermelon-design/build/service-worker.js",
-    "static/css/2.064c74a4.chunk.css.map": "/watermelon-design/build/static/css/2.064c74a4.chunk.css.map",
+    "static/css/2.a7f744b7.chunk.css.map": "/watermelon-design/build/static/css/2.a7f744b7.chunk.css.map",
     "static/css/main.d89d84ba.chunk.css.map": "/watermelon-design/build/static/css/main.d89d84ba.chunk.css.map",
     "static/media/log.md": "/watermelon-design/build/static/media/log.c05fc3ff.md"
   }

@@ -1,6 +1,6 @@
 {
   "name": "watermelon-design",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "person design",
   "dependencies": {
     "@svgr/webpack": "4.1.0",
@@ -166,6 +166,9 @@
     "react-component",
     "component",
     "components",
-    "ui"
+    "ui",
+    "ColorPicker",
+    "水印",
+    "颜色选择器"
   ]
 }
