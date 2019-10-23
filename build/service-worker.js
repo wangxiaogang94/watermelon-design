@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/watermelon-design/build/precache-manifest.61ae1eacf0629430bfa9f2b040f52067.js"
+  "/watermelon-design/build/precache-manifest.50028e2cd40d110f15411e341adfe632.js"
 );
 
 self.addEventListener('message', (event) => {
