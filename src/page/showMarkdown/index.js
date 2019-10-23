@@ -28,8 +28,9 @@ class demo extends React.Component {
             });
     }
     render() {
+        const { style } = this.props;
         return (
-            <div>
+            <div style={style}>
                 <div
                     className="article-detail"
                     dangerouslySetInnerHTML={{

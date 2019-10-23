@@ -1,0 +1,167 @@
+.circle-warpper {
+    position: fixed;
+    width: 300px;
+    height: 300px;
+    z-index: 10;
+}
+
+.circle-warpper .circle-nav {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    z-index: 20;
+    border-radius: 50%;
+}
+.circle-warpper .circle-nav .circle-circle {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -20%;
+    margin-left: -20%;
+    z-index: 999;
+    border-radius: 50%;
+    background: #fd485e;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+}
+.circle-warpper .circle-nav ul {
+    width: 100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+}
+.circle-warpper .circle-nav ul li {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 100px;
+    border: solid 1px #737c73;
+    transform-origin: 100% 100%;
+    margin-left: -50%;
+    overflow: hidden;
+    font-size: 16px;
+    background-color: #1c1c1c;
+    cursor: pointer;
+    opacity: 0.95;
+    color: cornsilk;
+}
+.circle-warpper .circle-nav ul li .icon {
+    color: #fff;
+    display: block;
+    width: 35px;
+    height: 35px;
+    font-size: 22px;
+    position: absolute;
+    border-radius: 50px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center center;
+}
+.circle-warpper .circle-nav ul li .text {
+    color: #fff;
+    display: block;
+    width: 50px;
+    height: 20px;
+    position: absolute;
+    text-align: center;
+    font-size: 12px;
+}
+
+.circle-warpper .circle-nav ul li:nth-child(1) {
+    transform: rotate(0deg) skew(30deg);
+}
+.circle-nav ul li:nth-child(1) .icon {
+    transform: skew(-30deg) translateX(-30%);
+    top: 40px;
+    right: 8px;
+}
+.circle-nav ul li:nth-child(1) .text {
+    bottom: 2px;
+    right: 20px;
+    transform: skew(-30deg) translateX(-30%);
+}
+
+.circle-nav ul li:nth-child(2) {
+    transform: rotate(60deg) skew(30deg);
+}
+.circle-nav ul li:nth-child(2) .icon {
+    transform: skew(-30deg) rotate(-60deg) translateY(-30%);
+    bottom: 14px;
+    right: 20px;
+}
+.circle-nav ul li:nth-child(2) .text {
+    bottom: 10px;
+    right: 0px;
+    transform: skew(-30deg) rotate(-60deg) translateY(-30%);
+}
+
+.circle-nav ul li:nth-child(3) {
+    transform: rotate(120deg) skew(30deg);
+}
+.circle-nav ul li:nth-child(3) .icon {
+    bottom: 10px;
+    right: 28px;
+    transform: skew(-30deg) rotate(-120deg) translateX(20%);
+}
+.circle-nav ul li:nth-child(3) .text {
+    bottom: 30px;
+    right: -12px;
+    transform: skew(-30deg) rotate(-120deg) translateX(20%);
+}
+
+.circle-nav ul li:nth-child(4) {
+    transform: rotate(180deg) skew(30deg);
+}
+.circle-nav ul li:nth-child(4) .icon {
+    bottom: 5px;
+    right: 15px;
+    transform: skew(-30deg) rotate(180deg) translateY(10%) translateX(30%);
+}
+.circle-nav ul li:nth-child(4) .text {
+    bottom: 41px;
+    right: -13px;
+    transform: skew(-30deg) rotate(180deg) translateY(10%) translateX(30%);
+}
+
+.circle-nav ul li:nth-child(5) {
+    transform: rotate(240deg) skew(30deg);
+}
+.circle-nav ul li:nth-child(5) .icon {
+    bottom: 5px;
+    right: 8px;
+    transform: skew(-30deg) rotate(120deg) translateY(40%);
+}
+.circle-nav ul li:nth-child(5) .text {
+    bottom: 28px;
+    right: 20px;
+    transform: skew(-30deg) rotate(120deg) translateY(40%);
+}
+
+.circle-nav ul li:nth-child(6) {
+    transform: rotate(300deg) skew(30deg);
+}
+.circle-nav ul li:nth-child(6) .icon {
+    bottom: 12px;
+    right: 8px;
+    transform: skew(-30deg) rotate(60deg) translateY(20%) translateX(-30%);
+}
+.circle-nav ul li:nth-child(6) .text {
+    bottom: 1px;
+    right: 35px;
+    transform: skew(-30deg) rotate(60deg) translateY(20%) translateX(-30%);
+}
